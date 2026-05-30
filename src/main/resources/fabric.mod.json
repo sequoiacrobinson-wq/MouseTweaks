@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "id": "mousetweaks",
+  "id": "mouse",
   "version": "${version}",
-  "name": "Mouse Tweaks",
+  "name": "Mouse",
   "description": "${modDescription}",
   "authors": [
     "Ivan Molodetskikh (YaLTeR)"
